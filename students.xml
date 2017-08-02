@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<config>
+   <student>
+       	<name>sam</name>
+        <age>12</age>
+        <major>biomedical engineering</major>
+        <grade>A</grade>
+        <activities>being a nerd, not failing class, drugs</activities>
+    </student>
+    <student>
+       	<name>casey</name>
+        <age>5</age>
+        <major>Anything but java please</major>
+        <grade>F</grade>
+        <activities>Unicorns and fairytailes, Ladder 19, Drunken Taco</activities>
+    </student>
+    <student>
+       	<name>Potato</name>
+        <age>23</age>
+        <major>being awsome</major>
+        <grade>A</grade>
+        <activities>coding, drinking, partying</activities>
+    </student>
+    <student>
+       	<name>Spud</name>
+        <age>4</age>
+        <major>being the cutest puppy ever</major>
+        <grade>Z</grade>
+        <activities>chewing stuff up, getting people to pet me, chasing birds, playing fetch, WOOFING</activities>
+    </student>
+</config>
